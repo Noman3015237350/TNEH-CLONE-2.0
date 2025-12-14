@@ -1,10 +1,10 @@
-TNEH CLONE 2.0 - Facebook Account Checker Tool
+#TNEH CLONE 2.0 - Facebook Account Checker Tool
 
-📌 Overview
+#📌 Overview
 
 TNEH CLONE 2.0 is an advanced Facebook account checker tool developed by NOMAN HACKER. This tool provides multiple methods for checking Facebook accounts with various features and customization options.
 
-✨ Features
+#✨ Features
 
 · Multiple Cloning Methods (8 different methods)
 · File-Based Cloning - Check accounts from file
@@ -17,7 +17,7 @@ TNEH CLONE 2.0 is an advanced Facebook account checker tool developed by NOMAN H
 · Colorful Interface - ANSI colored output
 · Multi-threading - Fast checking with concurrent threads
 
-🌍 Supported Countries for Random Cloning
+#🌍 Supported Countries for Random Cloning
 
 1. 🇧🇩 Bangladesh
 2. 🇲🇾 Malaysia
@@ -29,7 +29,7 @@ TNEH CLONE 2.0 is an advanced Facebook account checker tool developed by NOMAN H
 8. 🇺🇸 USA
 9. 🇮🇩 Indonesia
 
-📋 Prerequisites
+#📋 Prerequisites
 
 Termux Installation
 
@@ -46,7 +46,7 @@ Python Dependencies
 pip install requests bs4 rich urllib3 httplib2 arrow mechanize
 ```
 
-🚀 Installation
+#🚀 Installation
 
 Method 1: Clone from GitHub
 
@@ -70,7 +70,7 @@ wget https://raw.githubusercontent.com/Noman3015237350/TNEH-CLONE-2.0/main/add.p
 python add.py
 ```
 
-📁 File Structure
+#📁 File Structure
 
 ```
 TNEH-CLONE-2.0/
@@ -84,7 +84,7 @@ TNEH-CLONE-2.0/
 └── README.md               # This file
 ```
 
-🎯 Usage Guide
+#🎯 Usage Guide
 
 Step 1: Start the Tool
 
@@ -124,7 +124,7 @@ Option 3: Old Cloning
 1. Set limit
 2. Start checking old accounts
 
-🔧 Configuration
+#🔧 Configuration
 
 Supported Methods
 
@@ -138,7 +138,7 @@ Password Options
 2. Auto Pass 2: Alternative password combinations
 3. Custom Pass: Manual password entry
 
-📊 Results Files
+#📊 Results Files
 
 The tool saves results in /sdcard/ directory:
 
@@ -148,7 +148,7 @@ The tool saves results in /sdcard/ directory:
 · TNEH-RNDM-CP.txt - Random method CP accounts
 · TNEH-OLD-OK.txt - Old method OK accounts
 
-⚠️ Disclaimer
+#⚠️ Disclaimer
 
 Educational Purpose Only!
 
@@ -157,17 +157,17 @@ Educational Purpose Only!
 · The developer is not responsible for any misuse
 · Unauthorized access to accounts is illegal
 
-🔗 Connect with Developer
+#🔗 Connect with Developer
 
 · Telegram: @Noman301523
 · GitHub: Noman3015237350
 · Team: TNEH TEAM
 
-📝 License
+#📝 License
 
 This project is for educational purposes only. Use responsibly.
 
-🆘 Support
+#🆘 Support
 
 For issues and support:
 
@@ -176,7 +176,7 @@ For issues and support:
 3. Verify file permissions
 4. Contact via Telegram for help
 
-🎨 Features in Detail
+#🎨 Features in Detail
 
 Proxy System
 
@@ -196,7 +196,7 @@ Account Analysis
 · Account age detection
 · Status classification (OK/CP/2FA)
 
-🚫 Terms of Use
+#🚫 Terms of Use
 
 By using this tool, you agree to:
 
@@ -205,7 +205,7 @@ By using this tool, you agree to:
 3. Take full responsibility for your actions
 4. Respect others' privacy
 
-🔄 Updates
+#🔄 Updates
 
 Check GitHub for latest updates and improvements:
 
