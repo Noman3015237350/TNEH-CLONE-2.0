@@ -1,5 +1,3 @@
-🎨 TNEH CLONE 2.0 - Professional README Design
-
 ```markdown
 # <img src="https://img.shields.io/badge/TNEH-CLONE%202.0-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="TNEH CLONE 2.0" /> 
 
