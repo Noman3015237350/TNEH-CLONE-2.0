@@ -1,7 +1,7 @@
-requests>=2.28.0
-bs4>=0.0.1
-rich>=13.0.0
-urllib3>=1.26.0
-httplib2>=0.20.0
-arrow>=1.2.0
-mechanize>=0.4.8
+requests
+bs4
+rich
+urllib3
+httplib2
+arrow
+mechanize
