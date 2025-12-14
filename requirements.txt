@@ -1,0 +1,4 @@
+pkg update && pkg upgrade
+pkg install python
+pkg install espeak
+pip install requests bs4 rich urllib3 httplib2 arrow mechanize
